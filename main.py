@@ -1,3 +1,4 @@
+print("Para Birimi Hesaplayıcı v1.0.0")
 p = str("TL ise 1")
 l = str("DOLAR ise 2")
 r = str("EURO ise 3")
